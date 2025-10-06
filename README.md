@@ -7,11 +7,7 @@ It demonstrates how to send a prompt to Gemini and get AI-generated responses th
 
 ## 🖼️ Project Preview
 
-Here’s a quick look at the project in action:
-
 ![Gemini Node API Preview](./img.jpg)
-
-> *(Replace `preview.png` with your actual image name if different)*
 
 ---
 
